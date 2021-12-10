@@ -1,6 +1,7 @@
 # ColorNames
 this is a collection of colors codes and their common name. All data is collectd combined from
-https://xkcd.com/color/rgb.txt which is CC0 and from an RAL data set which should also be CC0.
+https://xkcd.com/color/rgb.txt which is CC0 and from an RAL data set which should also be CC0 and
+data from [thecolorapi](https://www.thecolorapi.com) which should be CC0.
 
 The data is structured as following
 
